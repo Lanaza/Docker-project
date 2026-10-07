@@ -3,7 +3,7 @@ title: "RAPPORT TECHNIQUE — MINI-PROJET DOCKER"
 subtitle: "Conteneurisation d'un site vitrine avec tracking d'interactions et PostgreSQL"
 author: "Abimael MAHOUNGOU, MS Expert Big Data Engineer"
 date: "07-10-2026"
-output: word_document
+output: Markdown document
 ---
 
 # 1. Description générale de l'application
