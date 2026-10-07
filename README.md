@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mini-Projet Docker : Site Web Vitrine & Tracking d'Interactions 
 # -----------------------------------------------------------------------------------------------------------
 # --------------------- Par Abimael Mahoungou, MS Expert Big Data Engineer ----------------------------------
@@ -74,3 +75,7 @@ Voir les logs de l'application : docker compose logs -f app
 Stopper les conteneurs : docker compose down
 
 Stopper et supprimer les volumes : docker compose down -v
+=======
+# Docker-project
+L'application est une interface web vitrine développée en Python avec le framework Flask, connectée à une base de données relationnelle PostgreSQL.  Elle permet de présenter un site client dynamique tout en enregistrant en temps réel toutes les interactions des visiteurs directement dans PostgreSQL.  
+>>>>>>> 8c45e2c21b0e160a951d8de596a42beda158250a
