@@ -2,7 +2,7 @@
 title: "RAPPORT TECHNIQUE — MINI-PROJET DOCKER"
 subtitle: "Conteneurisation d'un site vitrine avec tracking d'interactions et PostgreSQL"
 author: "Abimael MAHOUNGOU, MS Expert Big Data Engineer"
-date: "`r Sys.Date()`"
+date: "07-10-2026"
 output: word_document
 ---
 
